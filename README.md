@@ -24,4 +24,4 @@ This repository contains source files of keyboard layouts for typing Kurdish lan
 
 
 ### How to install?
-[Download](https://github.com/CrowdsourceKurdish/Kurdish-Kurmanji-Latin-Keyboard-Layout/files/9283857/Kurdish.kurmanji.zip) unzip, and run `setup.exe` file. In Windows 8, 10, and 11. `Kurdish (Kurmanji-latin)` layout will be automatically added to the Kurdish(Kurmanji-Latin) language of the system. 
+[Download](https://github.com/CrowdsourceKurdish/Kurdish-Kurmanji-Latin-Keyboard-Layout/files/9283857/Kurdish.kurmanji.zip) unzip, and run `setup.exe` file. In Windows 8, 10, and 11. `Kurdish (Kurmanji-latin)` layout will be automatically added to the English language of the system. 
