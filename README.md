@@ -13,7 +13,7 @@ This repository contains source files of keyboard layouts for typing Kurdish lan
 
 ### Characters
 - The following data is derived from Unicode.
-- Main Letters: 
+- Letters: 
 - a b c ç d e ê f g h i î j k l m n o p q r s ş t u û v w x y z
 -  A B C Ç D E Ê F G H I Î J K L M N O P Q R S Ş T U Û V W X Y Z
 -  Diftong: XW
